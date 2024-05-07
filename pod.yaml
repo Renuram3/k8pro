@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: renuram/newimage:latest
+          image: renuram/newimage3:latest
           imagePullPolicy: Always
